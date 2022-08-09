@@ -1,6 +1,7 @@
 ---
 title: Memory Management
 categories: [Computer Science, OS]
+date: 2022-08-09 12:00:05
 tags: [cs, os]     # TAG names should always be lowercase
 author: <author_id>
 ---

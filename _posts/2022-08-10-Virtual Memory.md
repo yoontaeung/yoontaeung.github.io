@@ -1,6 +1,7 @@
 ---
 title: Virtual Memory
 categories: [Computer Science, OS]
+date: 2022-08-09 12:00:06
 tags: [cs, os]     # TAG names should always be lowercase
 author: <author_id>
 ---
