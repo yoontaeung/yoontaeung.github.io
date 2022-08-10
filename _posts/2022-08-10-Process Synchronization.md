@@ -231,7 +231,7 @@ Kernel 자료구조 깨지는걸 방지하기 위해. Global kernel 자료구조
 Why? 동기화 이슈가 필요한가? Race condition, critical region 어떤 형태의 동기화 primitive(low, high) 각 primitive 의 장단점. 커널안에서 동기화 이슈가 존재하는 이유.
 
 
-
+<br /><br /><br /><br /><br /><br />
 <div id="disqus_thread"></div>
 <script>
     /**

@@ -148,7 +148,7 @@ Fork와 같은 시스템 콜을 쓸 때 VM을 쓰면 더 효율적이고 file을
 52/ page replacement
 LRU lists. 실제 OS에서는 페이지 폴트가 발생시 빈 프레임을 확보하는게 아니라 항상 빈 프레임이 있다. 커널 판단하에 빈 프레임이 없다면 replacement를 해서 빈 프레임을 확보한다. 구체적인 절차가 진행. 빈 페이지 풀을 갖고 유지하고 있다.
 
-
+<br /><br /><br /><br /><br /><br />
 <div id="disqus_thread"></div>
 <script>
     /**

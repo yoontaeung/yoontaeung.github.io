@@ -66,7 +66,7 @@ Cpu burst가 짧을수록 윗 레벨에서 끝날 확률이 높고 길수록 아
 23/ File share scheduling (FSS)
 Unix 운영체제를 보면 멀티 유저. 공평성. 모든 유저는 가능하면 똑 같은 cpu시간을 써야한다는 정책. 특정 사용자가 fork를 많이 해 많은 프로세스를 만들고 그 프로세스를 수행해 cpu 를 독점하는 것을 막을 수 있음. 유저 당 쓸 수 있는 cpu 시간을 제한할 수 있다. 이런 스케줄링 정책을 fair share scheduling. 프로세스 별 완벽한 fairness를 제공할 것인가? CFS.
 
-
+<br /><br /><br /><br /><br /><br />
 <div id="disqus_thread"></div>
 <script>
     /**

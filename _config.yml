@@ -24,9 +24,9 @@ timezone: Aisa/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Taeung.log                          # the main title
+title: TaeUng.log                          # the main title
 
-tagline: A blog for blockchain developers  # it will display as the sub-title
+tagline: A blog for developers  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   I write articles for blockchain developers
