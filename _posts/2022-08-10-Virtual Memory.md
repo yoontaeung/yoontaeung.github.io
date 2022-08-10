@@ -8,7 +8,7 @@ author: <author_id>
 
 # L9. Virtual Memory
 
-OS lecture 9 VM
+OS lecture 9 VM  
 많은 cpu에서 가상 메모리를 지원하고 있다. 이런 하드웨어 지원을 바탕으로 운영체제가 어떻게 이 기법을 구현하고 어떤 이슈가 있는지 얘기한다. 가상 메모리의 필요성, 개념, 핵심적인 기법, 후반부에는 리눅스에서 가상메모리가 어떻게 구현되는지 소개
 2/ motivating ex
 가상메모리가 왜 중요한지 어떤 특징을 갖는지 프로그래머 관점에서 예제. 이런 프로그램을 두 사람이 서로 다른 시간에 수행한다면? 똑 같은 결과가 나올 것. 이 프로그램은 n의 주소를 프린트하는건데 **이 주소가 물리 메모리 주소가 아니라 프로세스의 logical address**가 된다. 코드, 전역변수, 힙, 스택이 있는데 n은 전역변수 값. 누가 언제 프로그램 실행하든 똑 같은 값이 나온다. 내가 갖는 물리 메모리와 상관없이 내 프로그램을 로지컬하게. 프로그램의 피지컬 메모리를 숨기고 로지컬 메모리로.
@@ -145,3 +145,24 @@ Fork와 같은 시스템 콜을 쓸 때 VM을 쓰면 더 효율적이고 file을
 메모리 region 당 하나의 vm 구조. 1,2,3번에서 페이지 폴트가 발생하는 경우. 1번 상황은 프로그램이 돌아가는데 어떤 이유로 illegal. 회색 부분만이 legal 한데 1번은 흰색 부분을 읽겠다고 하는게 page fault. 모든 프로세스가 만들어내는 주소가 회색 부분에 있어야 하는데 없다는것을 발견하고 excaption 발생. 예를 들어 포인터를 잘못 활용할 때. 세그멘테이션 폴트 에러. 두 번째도 페이지 폴트인데 valid 주소 공간을 access 하는데 MMU가 page fault를 만들었다. 이 경우 access write violation. Read only인데 코드를 변경하려고 하니 페이지 폴트. 3번 케이스도 페이지 폴트. 정상적으로 페이지 폴트가 발생. 해당 페이지가 물리 메모리에 없는 경우. 해당 페이지를 프레임에 찾아야 하는데 없으면 exception handler가 해당 페이지를 갖고 와서 업데이트.
 52/ page replacement
 LRU lists. 실제 OS에서는 페이지 폴트가 발생시 빈 프레임을 확보하는게 아니라 항상 빈 프레임이 있다. 커널 판단하에 빈 프레임이 없다면 replacement를 해서 빈 프레임을 확보한다. 구체적인 절차가 진행. 빈 페이지 풀을 갖고 유지하고 있다.
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://yoontaeung-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

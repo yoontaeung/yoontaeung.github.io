@@ -8,6 +8,9 @@ author: <author_id>
 
 # L6. Process Synchronization
 
+
+
+
 OS 0511 Synchronization
 
 [프로세스 동기화와 상호배제](https://hee96-story.tistory.com/83)
@@ -226,3 +229,25 @@ Kernel 자료구조 깨지는걸 방지하기 위해. Global kernel 자료구조
 여러 atomic kernel 함수 존재. Interrupt disabling 잠시동안 interrupt 막고 푸는. Locking
 
 Why? 동기화 이슈가 필요한가? Race condition, critical region 어떤 형태의 동기화 primitive(low, high) 각 primitive 의 장단점. 커널안에서 동기화 이슈가 존재하는 이유.
+
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://yoontaeung-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

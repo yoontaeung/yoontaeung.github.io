@@ -65,3 +65,24 @@ Ready queue에서 고른다 했는데 실제 OS에선 ready queue가 여러 개 
 Cpu burst가 짧을수록 윗 레벨에서 끝날 확률이 높고 길수록 아래까지 내려가서 수행이 된다. 이런 상황에서 mlfq가 정한 정책 중 중요한 것은 i번 째 레벨 스케줄러가 동작하려면 그 위 레벨 스케줄러의 레디 큐가 비어야 함. i번째 레벨에 있는 큐의 job이 처리 되기 위해선 i-1번째 레디 큐에 프로세스가 없어야 함. 이게 preemtpive scheduling with dynamic priorities.
 23/ File share scheduling (FSS)
 Unix 운영체제를 보면 멀티 유저. 공평성. 모든 유저는 가능하면 똑 같은 cpu시간을 써야한다는 정책. 특정 사용자가 fork를 많이 해 많은 프로세스를 만들고 그 프로세스를 수행해 cpu 를 독점하는 것을 막을 수 있음. 유저 당 쓸 수 있는 cpu 시간을 제한할 수 있다. 이런 스케줄링 정책을 fair share scheduling. 프로세스 별 완벽한 fairness를 제공할 것인가? CFS.
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://yoontaeung-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
