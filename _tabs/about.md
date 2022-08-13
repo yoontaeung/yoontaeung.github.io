@@ -3,7 +3,8 @@ title: About me
 icon: fas fa-info-circle
 order: 4
 ---
-
+## Introduction
+This blog will cover the entire computer science including operating system, network, blockchain or etc. Also, I am going to write English materials as well as Korean. Thanks for your visit. 
 ## Education
 ---
 ### Yonsei University  
