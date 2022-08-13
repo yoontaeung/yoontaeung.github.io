@@ -20,7 +20,7 @@ Research and experiments on Ethereum network attack (The paper is under submissi
 - **Smart contract developer @ Muselive Inc. (Present)**  
 Development, Blockchain research
 
-- **Blockchain at Yonsei (Board member (Present)**  
+- **Blockchain at Yonsei (Board member (Present))**  
 Lead
 
 - **Dependable Computing lab @ Yonsei University**  
