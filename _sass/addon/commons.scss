@@ -23,3 +23,17 @@
     min-height: 3rem; // avoid vertical shifting in multi-line words
     user-select: none;
   }
+
+  #sidebar {
+    /* 원본 내용
+    background: var(--sidebar-bg);
+    */
+  
+    /*
+    아래 3줄 추가
+    이미지는 assets/img/ 디렉토리에 넣어 주세요. 
+    */
+    background: url('/assets/img/profile.jpeg');
+    background-size: 100% 100%;
+    background-position: center;
+  }
