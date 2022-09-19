@@ -30,9 +30,11 @@ Smart childcare researcher
 
 ## Talks
 ---
-[Blockchain at Yonsei 10기 모집 설명회](https://www.youtube.com/watch?v=vxFpQzs5gyc)
+[Blockchain at Yonsei recruiting presentation](https://www.youtube.com/watch?v=vxFpQzs5gyc)
 
-[](https://www.youtube.com/watch?v=1HZgNzUE-IE)
+[Analysis on Ethereum Access List and its Application](https://www.youtube.com/watch?v=1HZgNzUE-IE)
 
-> Contact me via my email     `yoontaeung@yonsei.ac.kr`{: .filepath }
+![ethereum_seminar](/assets/img/ethereum_seminar.jpeg)
+
+> Contact me     `yoontaeung@yonsei.ac.kr`{: .filepath }
 {: .prompt-tip }
