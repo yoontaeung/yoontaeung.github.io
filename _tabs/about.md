@@ -14,9 +14,9 @@ Mar 2016 - Present
 
 ## Experience
 ---
-- **Network Security and Privacy lab @ KAIST (Present)**  
+- **Network Security and Privacy lab @ KAIST**  
 Undergraduate Intern  
-Research and experiments on Ethereum network attack (The paper is under submission)
+Research and experiments on Ethereum network attack (decision in process)
 
 - **Smart contract developer @ Muselive Inc. (Present)**  
 Development, Blockchain research
@@ -28,6 +28,11 @@ Lead
 Undergraduate Intern  
 Smart childcare researcher
 
+## Talks
+---
+[Blockchain at Yonsei 10기 모집 설명회](https://www.youtube.com/watch?v=vxFpQzs5gyc)
+
+[](https://www.youtube.com/watch?v=1HZgNzUE-IE)
 
 > Contact me via my email     `yoontaeung@yonsei.ac.kr`{: .filepath }
 {: .prompt-tip }
