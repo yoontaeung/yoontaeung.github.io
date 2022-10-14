@@ -15,14 +15,14 @@ Mar 2016 - Feb 2023 (Est.)
 ## Experience
 ---
 - **Network Security and Privacy lab @ KAIST**  
-Undergraduate Intern  
-Research and experiments on Ethereum network attack (decision in process)
+[Undergraduate Intern](https://netsp.kaist.ac.kr/home)  
+Ethereum partitioning attack (3rd author, paper is in the process of being accepted)
 
 - **Smart contract developer @ Muselive Inc. (Present)**  
-Development, Blockchain research
+[Development, Blockchain research](https://www.muse.live/)
 
 - **Blockchain at Yonsei (Board member (Present))**  
-HR, Contents manager, Partnerships
+[HR, Contents manager, Partnerships](https://www.blockchainatyonsei.com/)
 
 - **Dependable Computing lab @ Yonsei University**  
 Undergraduate Intern  
