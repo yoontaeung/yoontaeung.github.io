@@ -9,7 +9,7 @@ This blog will cover the entire computer science including operating system, net
 ---
 ### Yonsei University  
 B.S. Computer Science       
-Mar 2016 - Present
+Mar 2016 - Feb 2023 (Est.)
 
 
 ## Experience
@@ -22,7 +22,7 @@ Research and experiments on Ethereum network attack (decision in process)
 Development, Blockchain research
 
 - **Blockchain at Yonsei (Board member (Present))**  
-Lead
+HR, Contents manager, Partnerships
 
 - **Dependable Computing lab @ Yonsei University**  
 Undergraduate Intern  
@@ -35,6 +35,8 @@ Smart childcare researcher
 [Analysis on Ethereum Access List and its Application](https://www.youtube.com/watch?v=1HZgNzUE-IE)
 
 ![ethereum_seminar](/assets/img/ethereum_seminar.jpeg)
+
+![ethereum_seminar2](/assets/img/ethereum_seminar2.jpeg)
 
 > Contact me     `yoontaeung@yonsei.ac.kr`{: .filepath }
 {: .prompt-tip }
