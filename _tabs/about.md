@@ -34,7 +34,11 @@ Smart childcare researcher
 
 [Analysis on Ethereum Access List and its Application](https://www.youtube.com/watch?v=1HZgNzUE-IE)
 
+- **Blockchain, Ethereum seminar at Blockchain at Yonsei**  
+
 ![ethereum_seminar](/assets/img/ethereum_seminar.jpeg)
+
+- **Ethereum 2.0 Consensus seminar at Blockchain at Yonsei**  
 
 ![ethereum_seminar2](/assets/img/ethereum_seminar2.jpeg)
 
