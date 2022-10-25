@@ -21,7 +21,7 @@ Ethereum partitioning attack (3rd author, paper is in the process of being accep
 - **Smart contract developer @ Muselive Inc. (Present)**  
 [Development, Blockchain research](https://www.muse.live/)
 
-- **Blockchain at Yonsei (Board member (Present))**  
+- **President of Blockchain at Yonsei**  
 [HR, Contents manager, Partnerships](https://www.blockchainatyonsei.com/)
 
 - **Dependable Computing lab @ Yonsei University**  
