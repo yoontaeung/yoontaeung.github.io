@@ -11,20 +11,27 @@ This blog will cover the entire computer science including operating system, net
 B.S. Computer Science       
 Mar 2016 - Feb 2023 (Est.)
 
+### KAIST
+M.S. Computer Science       
+Feb 2023 -
 
 ## Experience
 ---
-- **Network Security and Privacy lab @ KAIST**  
+- **Electronics and Telecommunications Research Institute (JAN 2023 - )**
+Researcher, Blockchain research group  
+
+
+- **Network Security and Privacy lab @ KAIST (JUN - AUG 2022)**  
 [Undergraduate Intern](https://netsp.kaist.ac.kr/home)  
-Ethereum partitioning attack (3rd author, paper is in the process of being accepted)
+Ethereum network attack thesis
 
 - **Smart contract developer @ Muselive Inc. (Present)**  
 [Development, Blockchain research](https://www.muse.live/)
 
-- **President of Blockchain at Yonsei**  
-[HR, Contents manager, Partnerships](https://www.blockchainatyonsei.com/)
+- **President of Blockchain at Yonsei (AUG - DEC 2022)**  
+[BAY website](https://www.blockchainatyonsei.com/)
 
-- **Dependable Computing lab @ Yonsei University**  
+- **Dependable Computing lab @ Yonsei University (SEP 2021 - JUN 2022)**  
 Undergraduate Intern  
 Smart childcare researcher
 
