@@ -18,6 +18,7 @@ Feb 2023 -
 ## Experience
 ---
 - **Electronics and Telecommunications Research Institute (JAN 2023 - )**
+
 Researcher, Blockchain research group  
 
 
@@ -49,5 +50,5 @@ Smart childcare researcher
 
 ![ethereum_seminar2](/assets/img/ethereum_seminar2.jpeg)
 
-> Contact me     `yoontaeung@yonsei.ac.kr`{: .filepath }
+> Contact me     `yoontaeung@kaist.ac.kr`{: .filepath }
 {: .prompt-tip }
