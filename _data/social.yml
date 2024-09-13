@@ -1,6 +1,9 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+- title: Linkedin
+  url: https://www.linkedin.com/in/taeungyoon
+  icon: fab fa-linkedin-in
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/yoontaeung
   icon: fab fa-github
+- title: Google Scholar
+  url: https://scholar.google.com/citations?hl=ko&user=XxLq0h8AAAAJ
+  icon: fab fa-google-scholar
