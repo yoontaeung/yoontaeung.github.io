@@ -1,6 +1,20 @@
 /**
  * Site container
  */
+
+/* Ensure the main content takes full width when there's no sidebar */
+.full-width {
+  width: 100%; /* Ensure the main content spans the full width */
+  padding: 0 20px; /* Optional: Add some padding to avoid touching the edges */
+  max-width: 100%; /* Prevent the content from going beyond the screen width */
+}
+
+.full-width object, 
+.full-width embed {
+  width: 100%; /* Ensure the PDF takes up the full available width */
+  height: 750px; /* Adjust the height as necessary */
+}
+
 .site-container {
   height: 100vh;
   width: 100vw;
