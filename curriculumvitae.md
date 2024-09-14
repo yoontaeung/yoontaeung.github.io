@@ -2,7 +2,6 @@
 layout: default
 title: CV
 permalink: /curriculumvitae/
-no_sidebar: true
 ---
 
 <object data="/cv.pdf" type="application/pdf" width="100%" height="750px">
