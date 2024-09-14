@@ -3,7 +3,7 @@ layout: default
 title: All Posts
 permalink: /posts/
 ---
-
+<!-- 
 <h1>{{ page.title }}</h1>
 
 <ul class="post-list">
@@ -14,4 +14,4 @@ permalink: /posts/
       <p>{{ post.excerpt | strip_html }}</p>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
