@@ -2,8 +2,8 @@
 #   url: /about/
 - title: CV
   url: /curriculumvitae/
-- title: Posts
-  url: /posts/
+# - title: Posts
+#   url: /posts/
 # - title: More
 #   sublinks:
 #     - title: FAQ
