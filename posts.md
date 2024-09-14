@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Posts
-permalink: /_posts/
+permalink: /posts/
 ---
 
 Posts test
