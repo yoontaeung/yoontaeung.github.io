@@ -27,13 +27,13 @@ I have written several posts (in Korean) and have been published on **Xangle**, 
 
 <details>
   <summary>Posts</summary>
-  
-  1. [What is blockchain](https://xangle.io/insight/research/63ebca7c15364cdc8c6ac7ca)
+
+  1. [What is blockchain](https://xangle.io/insight/research/63ebca7c15364cdc8c6ac7ca)  
   2. [About Bitcoin](https://xangle.io/research/detail/1139)  
-  3. [Proof of work](https://xangle.io/research/detail/1254)
-  4. [Blockchain trilema](https://xangle.io/research/detail/1269)
-  5. [A Smart contract](https://xangle.io/research/detail/1558)
-  
+  3. [Proof of Work](https://xangle.io/research/detail/1254)  
+  4. [Blockchain Trilemma](https://xangle.io/research/detail/1269)  
+  5. [A Smart Contract](https://xangle.io/research/detail/1558)
+
 </details>
 
 [gethlighting]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf

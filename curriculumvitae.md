@@ -1,12 +1,8 @@
 ---
-layout: page
+layout: home
 title: CV
 permalink: /curriculumvitae/
 ---
-
-# My CV
-
-You can view my CV directly below or [download the PDF version here](/cv_yoon.pdf).
 
 <object data="/cv_yoon.pdf" type="application/pdf" width="100%" height="750px">
     <embed src="/cv_yoon.pdf" type="application/pdf" width="100%" height="750px">
