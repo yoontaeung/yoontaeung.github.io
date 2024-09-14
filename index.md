@@ -4,22 +4,17 @@ title: Home
 ---
 
 
-I am currently pursuing my M.S. advised by Prof. Min Suk Kang in [NETSP](https://netsp.kaist.ac.kr) group at KAIST. My research focuses on blockchain and distributed systems security, with additional interests in machine learning security. 
+I am currently pursuing a M.S. at KAIST, under the guidance of Professor Min Suk Kang in the [NETSP](https://netsp.kaist.ac.kr) group. My research primarily focuses on the security of blockchain and distributed systems, with a growing interest in machine learning security. I completed my B.S. in Computer Science at Yonsei University, and I anticipate finishing my M.S. degree at KAIST in 2025.
 
-
-## Education 
-M.S., KAIST, Republic of Korea (Expected 2025)  
-B.S., Yonsei University, Republic of Korea (2023)
 
 ## Publications
 Research on Frontrunning attack in blockchain systems (under submission)
 
 [Partitioning Ethereum without Eclipsing It][gethlighting] (NDSS'23)
-    - Hwanjo Heo, Seungwon Woo, **Taeung Yoon**, Min Suk Kang, Seungwon Shin
+*Hwanjo Heo, Seungwon Woo, **Taeung Yoon**, Min Suk Kang, Seungwon Shin*
 
 ## Projects
-### [P2PDL: A decentralized peer-to-peer machine learning platform](https://github.com/yoontaeung/p2pdl)<br />
-(Near AI Hackathon 2nd place, USD 3,000 Bounty)
+### [P2PDL: A decentralized peer-to-peer machine learning platform](https://github.com/yoontaeung/p2pdl)<br /> Near AI Hackathon 2nd place (USD 3,000 Bounty)
 
 P2PDL is an ongoing open-source project aimed at decentralized peer-to-peer machine learning. It allows clients to train a model collaboratively in a permissionless setting, without relying on a central server. 
 
