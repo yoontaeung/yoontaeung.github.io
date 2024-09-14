@@ -41,7 +41,7 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-family: $handwriting-font-family;
+  font-family: 'Roboto', sans-serif;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -128,7 +128,8 @@
   }
 
   .current-page {
-    text-decoration: line-through;
+    font-weight: bold; /* Make the current page link bold */
+    text-decoration: none; /* Remove the line-through */
   }
 
   @media screen and (min-width: $on-medium) {
