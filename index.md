@@ -23,7 +23,7 @@ P2PDL is an ongoing open-source project aimed at decentralized peer-to-peer mach
 This project introduces a decentralized sequencing layer designed to enhance the throughput and security of blockchain Layer-2 systems. Independent transaction sequences from untrusted sequencers are merged without depending on consensus mechanisms like Byzantine Fault Tolerance (BFT). By avoiding the overhead, we significantly improved transaction throughput while maintaining robust security guarantees.
 
 ### Other
-I have written several posts (in Korean) and have been published on **Xangle**, a leading blockchain research platform. You can check the posts below:
+I have written several posts (in Korean) and have been published on [Xangle](https://xangle.io/), a leading blockchain research platform. You can check the posts below:
 
 <details>
   <summary>Posts</summary>
