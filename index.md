@@ -18,7 +18,7 @@ Research on Frontrunning attack in blockchain systems (under submission)
 P2PDL is an ongoing open-source project aimed at decentralized peer-to-peer machine learning. It allows clients to train a model collaboratively in a permissionless setting, without relying on a central server. 
 
 [A dentralized sequencing layer for Layer-2 blockchain](https://github.com/yoontaeung/fg-beta)<br />
-This project introduces a decentralized sequencing layer designed to enhance the throughput and security of blockchain Layer-2 systems. Independent transaction sequences from untrusted sequencers are merged without depending on consensus mechanisms like Byzantine Fault Tolerance (BFT). By avoiding the overhead, we significantly improved transaction throughput while maintaining robust security guarantees.
+This project introduced a decentralized sequencing layer designed to enhance the throughput and security of blockchain Layer-2 systems. Independent transaction sequences from untrusted sequencers are merged without depending on consensus mechanisms like Byzantine Fault Tolerance. By avoiding the overhead, we significantly improved transaction throughput while maintaining robust security guarantees.
 
 ### Other
 I have written several posts (in Korean) and have been published on [Xangle](https://xangle.io/), a leading blockchain research platform. You can check the posts below:
