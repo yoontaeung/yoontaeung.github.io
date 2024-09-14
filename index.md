@@ -4,13 +4,13 @@ title: Home
 ---
 
 
-I am currently pursuing a M.S. at KAIST, under the guidance of Professor Min Suk Kang in the [NETSP](https://netsp.kaist.ac.kr) group. My research primarily focuses on the security of blockchain and distributed systems, with a growing interest in machine learning security. I completed my B.S. in Computer Science at Yonsei University, and I anticipate finishing my M.S. degree at KAIST in 2025.
+I am currently pursuing a M.S. at KAIST, under the guidance of Professor Min Suk Kang in the [Network security and privacy](https://netsp.kaist.ac.kr) group. My research primarily focuses on the security of blockchain and distributed systems, with a growing interest in machine learning security. I completed my B.S. in Computer Science at Yonsei University, and I anticipate finishing my M.S. degree at KAIST in 2025.
 
 
 ## Publications
 Research on Frontrunning attack in blockchain systems (under submission)
 
-[Partitioning Ethereum without Eclipsing It][gethlighting] (NDSS'23)
+[Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
 *Hwanjo Heo, Seungwon Woo, **Taeung Yoon**, Min Suk Kang, Seungwon Shin*
 
 ## Projects
