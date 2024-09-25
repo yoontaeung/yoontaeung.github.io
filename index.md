@@ -14,8 +14,9 @@ Research on Frontrunning attack in blockchain systems (under submission)
 *Hwanjo Heo, Seungwon Woo, **Taeung Yoon**, Min Suk Kang, Seungwon Shin*
 
 ## Projects
-[P2PDL: A decentralized peer-to-peer machine learning platform](https://github.com/yoontaeung/p2pdl)<br /> *Near AI Hackathon 2nd place (USD 3,000 Bounty), 2024*<br />
-P2PDL is an ongoing open-source project aimed at decentralized peer-to-peer machine learning. It allows clients to train a model collaboratively in a permissionless setting, without relying on a central server. 
+[P2PDL: A decentralized peer-to-peer machine learning platform](https://github.com/yoontaeung/p2pdl)<br /> *Near AI Hackathon [2nd place](https://x.com/nearhorizon/status/1833458059399561627) (USD 3,000 Bounty), 2024*<br />
+P2PDL is an ongoing open-source project aimed at decentralized peer-to-peer machine learning. It allows clients to train a model collaboratively in a permissionless setting, without relying on a central server.
+
 
 [A dentralized sequencing layer for Layer-2 blockchain](https://github.com/yoontaeung/fg-beta)<br />*2025*<br />
 This project introduced a decentralized sequencing layer designed to enhance the throughput and security of blockchain Layer-2 systems. Independent transaction sequences from untrusted sequencers are merged without depending on consensus mechanisms like Byzantine Fault Tolerance. By avoiding the overhead, we significantly improved transaction throughput while maintaining robust security guarantees.
