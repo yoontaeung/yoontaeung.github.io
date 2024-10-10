@@ -8,7 +8,7 @@ I am currently pursuing a M.S. at KAIST, under the guidance of Professor Min Suk
 
 
 ## Publications
-Research on Frontrunning attack in blockchain systems (under submission)
+Frontrunning attacks against fair ordering blockchain systems (under review)
 
 [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
 *Hwanjo Heo, Seungwon Woo, **Taeung Yoon**, Min Suk Kang, Seungwon Shin*
