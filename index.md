@@ -15,7 +15,7 @@ Frontrunning attacks against fair ordering blockchain systems (under review)
 
 ## Projects
 [P2PDL: A decentralized peer-to-peer machine learning platform](https://github.com/yoontaeung/p2pdl)<br /> *Near AI Hackathon [2nd place](https://x.com/nearhorizon/status/1833458059399561627) (USD 4,000 Bounty), 2024*<br />
-P2PDL is an ongoing open-source project aimed at decentralized peer-to-peer machine learning. It allows clients to train a model collaboratively in a permissionless setting, without relying on a central server.
+P2PDL is an ongoing open-source project aimed at decentralized peer-to-peer machine learning. It allows clients to train a model collaboratively in a permissionless setting, without relying on a central server. [Demo](https://www.youtube.com/watch?v=aWOipnBZndM)
 
 
 [A dentralized sequencing layer for Layer-2 blockchain](https://github.com/yoontaeung/fg-beta)<br />*2025*<br />
