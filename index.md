@@ -8,10 +8,10 @@ I am currently pursuing a M.S. at KAIST, under the guidance of Professor Min Suk
 
 
 ## Publications
-1. STAMP: Synchronized Time of Arrival for MEV Prevention (to be submitted to SECURITY'25)<br />
+1. STAMP: Synchronized Time of Arrival for MEV Prevention (to be submitted to USENIX'25)<br />
 *Eunchan Park, Taeung Yoon (co-first author), Adrian Perrig, Deepak Maram, Min Suk Kang*
 
-2. On Frontrunning Attacks against Fair-Ordering Blockchain Systems (to be resubmitted to CCS'25)<br />
+2. A Frontrunning Attack against Batch-Order Fair Blockchain Systems (to be resubmitted to CCS'25)<br />
 *Taeung Yoon, Eunchan Park (co-first author), Hocheol Nam, Min Suk Kang*
 
 3. [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
