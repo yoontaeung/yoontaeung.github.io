@@ -4,15 +4,15 @@ title: Home
 ---
 
 
-I am currently pursuing a M.S. at KAIST, under the guidance of Professor Min Suk Kang in the [Network security and privacy](https://netsp.kaist.ac.kr) group. My research primarily focuses on the security of blockchain and distributed systems, with a growing interest in machine learning security. I completed my B.S. in Computer Science at Yonsei University, and I anticipate finishing my M.S. degree at KAIST in 2025.
+I am currently pursuing an M.S. in Computer Science at KAIST, under the guidance of Professor Min Suk Kang in the [Network security and privacy](https://netsp.kaist.ac.kr) group. My research focuses on computer and blockchain security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University and expect to complete my M.S. at KAIST in 2025.
 
 
 ## Publications
-1. STAMP: Synchronized Time of Arrival for MEV Prevention (to be submitted to USENIX'25)<br />
-*Eunchan Park, Taeung Yoon (co-first author), Adrian Perrig, Deepak Maram, Min Suk Kang*
+1. STAMP: Synchronized Time of Arrival for MEV Prevention (ongoing project)<br />
+*Taeung Yoon (co-first), Eunchan Park (co-first), Deepak Maram, Adrian Perrig, Min Suk Kang*
 
-2. A Frontrunning Attack against Batch-Order Fair Blockchain Systems (to be resubmitted to CCS'25)<br />
-*Taeung Yoon, Eunchan Park (co-first author), Hocheol Nam, Min Suk Kang*
+2. On Frontrunning Attacks against Fair-Ordering Blockchain Systems (to be resubmitted to CCS'25)<br />
+*Taeung Yoon (co-first), Eunchan Park (co-first), Hocheol Nam, Min Suk Kang*
 
 3. [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
 *Hwanjo Heo, Seungwon Woo, Taeung Yoon, Min Suk Kang, Seungwon Shin*
