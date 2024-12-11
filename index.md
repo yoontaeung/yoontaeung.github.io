@@ -9,13 +9,13 @@ I am currently pursuing an M.S. in Computer Science at KAIST, under the guidance
 
 ## Publications
 1. STAMP: Synchronized Time of Arrival for MEV Prevention (ongoing project)<br />
-*Taeung Yoon (co-first), Eunchan Park (co-first), Deepak Maram, Adrian Perrig, Min Suk Kang*
+*Tae Ung Yoon (co-first), Eunchan Park (co-first), Deepak Maram, Adrian Perrig, Min Suk Kang*
 
 2. On Frontrunning Attacks against Fair-Ordering Blockchain Systems (to be resubmitted to CCS'25)<br />
-*Taeung Yoon (co-first), Eunchan Park (co-first), Hocheol Nam, Min Suk Kang*
+*Tae Ung Yoon (co-first), Eunchan Park (co-first), Hocheol Nam, Min Suk Kang*
 
 3. [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
-*Hwanjo Heo, Seungwon Woo, Taeung Yoon, Min Suk Kang, Seungwon Shin*
+*Hwanjo Heo, Seungwon Woo, Tae Ung Yoon, Min Suk Kang, Seungwon Shin*
 
 ## Projects
 [P2PDL: A decentralized peer-to-peer machine learning platform](https://github.com/yoontaeung/p2pdl)<br /> *Near AI Hackathon [2nd place](https://x.com/nearhorizon/status/1833458059399561627) (USD 4,000 Bounty), 2024*<br />
