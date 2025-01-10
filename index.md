@@ -11,7 +11,7 @@ I am currently pursuing an M.S. in Computer Science at KAIST, under the guidance
 1. STAMP: Synchronized Time of Arrival for MEV Prevention (ongoing project)<br />
 *Tae Ung Yoon (co-first), Eunchan Park (co-first), Deepak Maram, Adrian Perrig, Min Suk Kang*
 
-2. On Frontrunning Attacks against Fair-Ordering Blockchain Systems (to be resubmitted to CCS'25)<br />
+2. On Frontrunning Risks in Batch-Order Fair Systems for Blockchains (resubmitted to CCS'25)<br />
 *Tae Ung Yoon (co-first), Eunchan Park (co-first), Hocheol Nam, Min Suk Kang*
 
 3. [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
