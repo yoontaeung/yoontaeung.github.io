@@ -4,17 +4,14 @@ title: Home
 ---
 
 
-I am currently pursuing an M.S. in Computer Science at KAIST, under the guidance of Professor Min Suk Kang in the [Network security and privacy](https://netsp.kaist.ac.kr) group. My research focuses on computer and blockchain security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University and expect to complete my M.S. at KAIST in 2025.
+I am incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor Xiaojing Liao. My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2016 and M.S. at KAIST in 2025.
 
 
 ## Publications
-1. STAMP: Synchronized Time of Arrival for MEV Prevention (ongoing project)<br />
-*Tae Ung Yoon (co-first), Eunchan Park (co-first), Deepak Maram, Adrian Perrig, Min Suk Kang*
-
-2. On Frontrunning Risks in Batch-Order Fair Systems for Blockchains (resubmitted to CCS'25)<br />
+1. On Frontrunning Risks in Batch-Order Fair Systems for Blockchains (CCS'25)<br />
 *Tae Ung Yoon (co-first), Eunchan Park (co-first), Hocheol Nam, Min Suk Kang*
 
-3. [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
+2. [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
 *Hwanjo Heo, Seungwon Woo, Tae Ung Yoon, Min Suk Kang, Seungwon Shin*
 
 ## Projects
