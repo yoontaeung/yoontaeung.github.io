@@ -9,10 +9,10 @@ I am incoming Ph.D. student at University of Illinois Urbana-Champaign, under th
 
 ## Publications
 1. On Frontrunning Risks in Batch-Order Fair Systems for Blockchains (CCS'25)<br />
-*Tae Ung Yoon (co-first), Eunchan Park (co-first), Hocheol Nam, Min Suk Kang*
+*Taeung Yoon (co-first), Eunchan Park (co-first), Hocheol Nam, Min Suk Kang*
 
 2. [Partitioning Ethereum without Eclipsing It][gethlighting]  (NDSS'23)<br />
-*Hwanjo Heo, Seungwon Woo, Tae Ung Yoon, Min Suk Kang, Seungwon Shin*
+*Hwanjo Heo, Seungwon Woo, Taeung Yoon, Min Suk Kang, Seungwon Shin*
 
 ## Projects
 [P2PDL: A decentralized peer-to-peer machine learning platform](https://github.com/yoontaeung/p2pdl)<br /> *Near AI Hackathon [2nd place](https://x.com/nearhorizon/status/1833458059399561627) (USD 4,000 Bounty), 2024*<br />
