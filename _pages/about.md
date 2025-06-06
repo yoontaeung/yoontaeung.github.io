@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor Xiaojing Liao. My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2016 and M.S. at KAIST in 2025.
+Hello, my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor Xiaojing Liao. My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2023 and M.S. at KAIST in 2025.
 
 News
 ------
 - **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany.
 - **2025-05**: "On Frontrunning Risks in Batch-Order Fair Systems for Blockchains" was accepted to [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! 🎉
-- **2025-02**: I received my M.S. degree from KAIST 🎓.
-- **2024-09**: I won the 2nd place in [Near AI Hackathon](https://x.com/nearhorizon/status/1833458059399561627) (USD 4K).
+- **2025-02**: I received my M.S. degree from KAIST. 🎓
+- **2024-09**: I won the 2nd place in the [Near AI Hackathon](https://x.com/nearhorizon/status/1833458059399561627) (USD 4K).
 
 Publications
 ------
