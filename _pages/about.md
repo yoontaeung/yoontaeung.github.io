@@ -30,6 +30,7 @@ Partitioning Ethereum without Eclipsing It  (NDSS)
 
 Hwanjo Heo, Seungwon Woo, <u>Taeung Yoon</u>, Min Suk Kang, Seungwon Shin
 
+[[paper]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf)
 
 <!-- Create content & metadata
 ------
