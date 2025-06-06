@@ -11,9 +11,9 @@ Hello, my name is Taeung Yoon and I am an incoming Ph.D. student at University o
 
 News
 ------
-- **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/)
-- **2025-05**: "On Frontrunning Risks in Batch-Order Fair Systems for Blockchains" was accepted to [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/). 
-- **2025-02**: I received M.S. degree from KAIST.
+- **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany.
+- **2025-05**: "On Frontrunning Risks in Batch-Order Fair Systems for Blockchains" was accepted to [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! 🎉
+- **2025-02**: I received my M.S. degree from KAIST 🎓.
 - **2024-09**: I won the 2nd place in [Near AI Hackathon](https://x.com/nearhorizon/status/1833458059399561627) (USD 4K).
 
 Publications
