@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2023 and M.S. at KAIST in 2025.
+Hello, my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2023 and M.S. at [KAIST](https://netsp.kaist.ac.kr/home) in 2025.
 
 News
 ------
