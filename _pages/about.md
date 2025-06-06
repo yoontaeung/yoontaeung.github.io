@@ -23,8 +23,8 @@ Publications
 <ul>
   <li>
     <strong>On Frontrunning Risks in Batch-Order Fair Systems for Blockchains</strong><br>
-    <em>Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Min Suk Kang</em><br>
-    <em>In Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025.</em><br>
+    Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Min Suk Kang<br>
+    In <em>Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025.</em><br>
     <em>(To Appear)</em>
   </li>
 </ul>
@@ -34,8 +34,8 @@ Publications
 <ul>
   <li>
     <strong>Partitioning Ethereum without Eclipsing It</strong><br>
-    <em>Hwanjo Heo, Seungwon Woo, <u>Taeung Yoon</u>, Min Suk Kang, Seungwon Shin</em><br>
-    <em>In Proceedings of Network and Distributed System Security Symposium (NDSS), February 2023.</em><br>
+    Hwanjo Heo, Seungwon Woo, <u>Taeung Yoon</u>, Min Suk Kang, Seungwon Shin<br>
+    In <em>Proceedings of Network and Distributed System Security Symposium (NDSS), February 2023.</em><br>
     <a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf">[paper]</a>
   </li>
 </ul>
