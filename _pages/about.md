@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2023 and M.S. at [KAIST](https://netsp.kaist.ac.kr/home) in 2025.
+Hello👋 my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2023 and M.S. at [KAIST](https://netsp.kaist.ac.kr/home) in 2025.
 
 News
 ------
@@ -39,25 +39,6 @@ Publications
     <a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf">[paper]</a>
   </li>
 </ul>
-<!-- - 2025
-
-1. On Frontrunning Risks in Batch-Order Fair Systems for Blockchains
-
-- Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Min Suk Kang
-
-- In Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025.
-
-- (To Appear)
-
-- 2023
-
-1. Partitioning Ethereum without Eclipsing It
-
-- Hwanjo Heo, Seungwon Woo, <u>Taeung Yoon</u>, Min Suk Kang, Seungwon Shin
-
-- In Proceedings of Network and Distributed System Security Symposium (NDSS), February 2023. 
-
-- [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf) -->
 
 <!-- Create content & metadata
 ------
