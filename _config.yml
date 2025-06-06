@@ -22,7 +22,7 @@ repository               : "yoontaeung/yoontaeung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo.jpeg"
+  avatar           : "photo.jpeg"
   name             : "Taeung Yoon"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science PhD student"
@@ -215,7 +215,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
