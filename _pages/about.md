@@ -20,13 +20,13 @@ Publications
 ------
 - 2025
 
-On Frontrunning Risks in Batch-Order Fair Systems for Blockchains (CCS'25)
+On Frontrunning Risks in Batch-Order Fair Systems for Blockchains (CCS)
 
 Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Min Suk Kang
 
 - 2023
 
-Partitioning Ethereum without Eclipsing It  (NDSS'23)
+Partitioning Ethereum without Eclipsing It  (NDSS)
 
 Hwanjo Heo, Seungwon Woo, <u>Taeung Yoon</u>, Min Suk Kang, Seungwon Shin
 
