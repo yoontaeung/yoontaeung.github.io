@@ -23,7 +23,7 @@ Publications
 <ul>
   <li>
     <strong>On Frontrunning Risks in Batch-Order Fair Systems for Blockchains</strong><br>
-    Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Min Suk Kang<br>
+    Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Deepak Maram, Min Suk Kang<br>
     In <em>Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025.</em><br>
     <em>(To Appear)</em>
   </li>
