@@ -11,6 +11,7 @@ Hello👋 my name is Taeung Yoon and I am an incoming Ph.D. student at Universit
 
 News
 ------
+- **2025-08**: Here we go! I am excited to begin my journey as a PhD student at [University of Illinois](https://siebelschool.illinois.edu/).
 - **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany.
 - **2025-05**: "On Frontrunning Risks in Batch-Order Fair Systems for Blockchains" was accepted to [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! 🎉
 - **2025-02**: I received my M.S. degree from KAIST. 🎓
