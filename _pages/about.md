@@ -43,14 +43,20 @@ Publications
 
 Teaching Experience
 ------
-<div style="display: flex; justify-content: space-between;">
-  <span><b>Teaching Assistant</b>, Introduction to Information Security, <i>KAIST</i></span>
-  <span>Spring 2024</span>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span><b>Teaching Assistant</b>, Introduction to Computer Networks, <i>KAIST</i></span>
-  <span>Fall 2024</span>
-</div>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span><b>Teaching Assistant</b>, Introduction to Computer Networks, <i>KAIST</i></span>
+      <span>Fall 2024</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span><b>Teaching Assistant</b>, Introduction to Information Security, <i>KAIST</i></span>
+      <span>Spring 2024</span>
+    </div>
+  </li>
+</ul>
 
 <!-- Create content & metadata
 ------
