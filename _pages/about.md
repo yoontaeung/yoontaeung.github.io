@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello👋 my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research focuses on computer security, with a growing interest in AI security. I completed my B.S. in Computer Science at Yonsei University in 2023 and M.S. at [KAIST](https://netsp.kaist.ac.kr/home) in 2025.
+Hello👋 my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research investigates security vulnerabilities in AI agents, particularly those arising from external tool integration. Previously, I conducted research in blockchain security. I completed my B.S. in Computer Science at Yonsei University in 2023 and M.S. at [KAIST](https://netsp.kaist.ac.kr/home) in 2025.
 
 News
 ------
@@ -40,6 +40,17 @@ Publications
     <a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf">[paper]</a>
   </li>
 </ul>
+
+Teaching Experience
+------
+<div style="display: flex; justify-content: space-between;">
+  <span><b>Teaching Assistant</b>, Introduction to Information Security, <i>KAIST</i></span>
+  <span>Spring 2024</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><b>Teaching Assistant</b>, Introduction to Computer Networks, <i>KAIST</i></span>
+  <span>Fall 2024</span>
+</div>
 
 <!-- Create content & metadata
 ------
