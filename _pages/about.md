@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello👋 my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research interests lie in LLM/AI agent security and applied cryptography. I am currently exploring the use of zero-knowledge proofs to solve the pressing challenges in AI agent security. Previously, I conducted research in distributed systems and blockchain security. 
+Hello👋 my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research interests lie in LLM/AI agent security and applied cryptography. I am currently exploring the use of zero-knowledge proofs to solve the pressing challenges in AI agent security. Previously, I conducted research in distributed systems and blockchain security at [NETSP lab](https://netsp.kaist.ac.kr/). 
 
 News
 ------
