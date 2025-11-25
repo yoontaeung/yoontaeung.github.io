@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello👋 my name is Taeung Yoon and I am an incoming Ph.D. student at University of Illinois Urbana-Champaign, under the guidance of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research interests lie in LLM/AI agent security and applied cryptography. I am currently exploring the use of zero-knowledge proofs to solve the pressing challenges in AI agent security. Previously, I conducted research in distributed systems and blockchain security at [NETSP lab](https://netsp.kaist.ac.kr/). 
+I am a first-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). I previously worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
+
+LLMs are now everywhere. Big tech companies are spending enormous amounts of money to scale and improve these proprietary models, and industries are integrating LLMs into their products. But how much can we trust LLMs? Is the response coming from the intended model? Has the model been trained correctly? How we ensure AI compliance (or alignment) is becoming increasingly important. My current research focuses on building secure and trustworthy AI systems. In particular, I am interested in how cryptography meets AI compliance for verifying modern AI behaviors. My prior work spans blockchain security, including frontrunning attacks against fair-ordering protocols and partitioning attacks on Ethereum.
 
 News
 ------
@@ -26,7 +28,7 @@ Publications
     <strong>On Frontrunning Risks in Batch-Order Fair Systems for Blockchains</strong><br>
     Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Deepak Maram, Min Suk Kang<br>
     In <em>Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025.</em><br>
-    <em>(To Appear)</em>
+    <a href="https://dl.acm.org/doi/10.1145/3719027.3744879">[paper]</a>
   </li>
 </ul>
 
