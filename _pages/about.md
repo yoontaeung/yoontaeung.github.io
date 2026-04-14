@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). I previously worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
+I am a first-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). Prior to doctoral studies, I worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
 
-LLMs are now everywhere. Big tech companies are spending enormous amounts of money to scale and improve these proprietary models, and industries are integrating LLMs into their products. But how much can we trust LLMs? Is the response coming from the intended model? Has the model been trained correctly? How we ensure AI compliance (or alignment) is becoming increasingly important. My current research focuses on building secure and trustworthy AI systems. In particular, I am interested in how cryptography meets AI compliance for verifying modern AI behaviors. My prior work spans blockchain security, including frontrunning attacks against fair-ordering protocols and partitioning attacks on Ethereum.
+I am interested in verifiable AI and AI safety. My research questions focus on identifying which properties of AI models are most important to verify and how such verification can be practically realized.
+
 
 News
 ------
