@@ -158,7 +158,13 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
     </ul>
+
+    {% if page.permalink == "/" %}
+      <div class="author__visitor-map" style="margin-top: 1em;">
+        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=z0aeUs9I2M_lGiz1cqOEFwHv8XXECC1q8HPUiltQGDA&cl=ffffff&w=a"></script>
+      </div>
+    {% endif %}
   </div>
 </div>
