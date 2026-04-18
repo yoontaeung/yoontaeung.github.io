@@ -5,13 +5,13 @@ permalink: /misc/
 author_profile: true
 ---
 
-Outside of research, here are a few things I enjoy.
+Outside of research, here are a few things about me.
 
-Sports
+Fun Facts
 ------
-I am a casual tennis player and have been playing since 2022. I am currently a member of the Korean Tennis Club in Champaign.
+- I served my military duty as a **KATUSA** (Korean Augmentation to the US Army) for 21 months, assigned to the Judge Advocate General's office of the 2nd Infantry Division at USAG Humphreys. It was an exceptional experience, and I still look back on those days sometimes.
 
-I also started CrossFit in Winter 2025.
+- I have been a casual tennis player since 2022 and am currently a member of the Korean Tennis Club in Champaign. I also picked up CrossFit in Winter 2025 and now train 3–4 times a week.
 
 Travel
 ------
