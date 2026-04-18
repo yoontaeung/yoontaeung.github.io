@@ -18,7 +18,6 @@ News
 - **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany.
 - **2025-05**: "On Frontrunning Risks in Batch-Order Fair Systems for Blockchains" was accepted to [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! 🎉
 - **2025-02**: I received my M.S. degree from KAIST. 🎓
-- **2024-09**: I won the 2nd place in the [Near AI Hackathon](https://x.com/nearhorizon/status/1833458059399561627) (USD 4K).
 
 Publications
 ------
@@ -43,6 +42,37 @@ Publications
     <a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf">[paper]</a>
   </li>
 </ul>
+
+Service & Awards
+------
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>CS Graduate Ambassador, University of Illinois Urbana-Champaign</span>
+      <span>Mar 2026</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>Artifact Evaluation Committee, <em>USENIX Security Symposium</em></span>
+      <span>2026</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>Travel Grant, <em>ACM CCS</em></span>
+      <span>Oct 2025</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>2nd Place, Near Horizon AI Hackathon (USD 4K)</span>
+      <span>Sep 2024</span>
+    </div>
+  </li>
+</ul>
+
+
 
 Teaching Experience
 ------
