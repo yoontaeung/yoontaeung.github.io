@@ -14,10 +14,10 @@ I am interested in verifiable AI and AI safety. My research questions focus on i
 
 News
 ------
-- **2025-08**: Here we go! I am excited to begin my journey as a PhD student at [University of Illinois](https://siebelschool.illinois.edu/).
+- **2026-06**: Excited to join SPHERE project at USC-ISI as a research intern. 
+- **2025-08**: I am excited to begin my journey as a PhD student at [University of Illinois](https://siebelschool.illinois.edu/).
 - **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany.
 - **2025-05**: "On Frontrunning Risks in Batch-Order Fair Systems for Blockchains" was accepted to [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! 🎉
-- **2025-02**: I received my M.S. degree from KAIST. 🎓
 
 Publications
 ------
