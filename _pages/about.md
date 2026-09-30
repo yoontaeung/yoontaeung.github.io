@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). Prior to doctoral studies, I worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
+I am a second-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). Prior to doctoral studies, I worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
 
 I am interested in verifiable AI and AI safety. My research questions focus on identifying which properties of AI models are most important to verify and how such verification can be practically realized.
 
@@ -21,6 +21,17 @@ News
 
 Publications
 ------
+### 2026
+
+<ul>
+  <li>
+    <strong>Bits Under ZK-LLM: Evaluating Zero-Knowledge-Friendly Quantization for Verifiable Private LLM Inference</strong><br>
+    Taeung Yoon, Yupeng Zhang, Xiaojing Liao<br>
+    In <em>Preprint. Under review.</em><br>
+    <a href="https://arxiv.org/abs/2609.36437">[paper]</a>
+  </li>
+</ul>
+
 ### 2025
 
 <ul>
@@ -54,7 +65,7 @@ Service & Awards
   </li>
   <li>
     <div style="display: flex; justify-content: space-between;">
-      <span>Artifact Evaluation Committee, <em>USENIX Security Symposium</em></span>
+      <span>Artifact Evaluation Committee, <em>USENIX Security Symposium, NDSS</em></span>
       <span>2026</span>
     </div>
   </li>
@@ -77,6 +88,12 @@ Service & Awards
 Teaching Experience
 ------
 <ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>Teaching Assistant, Advanced Topics in Security, Privacy, and Machine Learning, UIUC</span>
+      <span>Fall 2026</span>
+    </div>
+  </li>
   <li>
     <div style="display: flex; justify-content: space-between;">
       <span>Teaching Assistant, Introduction to Computer Networks, KAIST</span>
