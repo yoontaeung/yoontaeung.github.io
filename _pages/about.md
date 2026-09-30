@@ -27,7 +27,7 @@ Publications
   <li>
     <strong>Bits Under ZK-LLM: Evaluating Zero-Knowledge-Friendly Quantization for Verifiable Private LLM Inference</strong><br>
     Taeung Yoon, Yupeng Zhang, Xiaojing Liao<br>
-    In <em>Preprint. Under review.</em><br>
+    <em>Preprint. Under review.</em><br>
     <a href="https://arxiv.org/abs/2609.36437">[paper]</a>
   </li>
 </ul>
