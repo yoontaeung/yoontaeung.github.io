@@ -68,19 +68,19 @@ Education
 ------
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Ph.D. in Computer Science, University of Illinois Urbana-Champaign</span>
       <span>2025 – Present</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>M.S. in Computer Science, KAIST</span>
       <span>Feb 2025</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>B.S. in Computer Science, Yonsei University</span>
       <span>Feb 2023</span>
     </div>
@@ -91,37 +91,37 @@ Service & Awards
 ------
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Program Committee, <em>Cyber Security Experimentation and Test (CSET)</em></span>
       <span>2026</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Undergraduate Research Apprenticeship Program Mentor, University of Illinois Urbana-Champaign</span>
       <span>2026 – 2027</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>CS Graduate Ambassador, University of Illinois Urbana-Champaign</span>
       <span>Mar 2026</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Artifact Evaluation Committee, <em>USENIX Security 2026, NDSS 2027</em></span>
       <span>2026</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Travel Grant, <em>ACM CCS</em></span>
       <span>Oct 2025</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>2nd Place, Near Horizon AI Hackathon (USD 4K)</span>
       <span>Sep 2024</span>
     </div>
@@ -134,19 +134,19 @@ Teaching Experience
 ------
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Teaching Assistant, Advanced Topics in Security, Privacy, and Machine Learning, UIUC</span>
       <span>Fall 2026</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Teaching Assistant, Introduction to Computer Networks, KAIST</span>
       <span>Fall 2024</span>
     </div>
   </li>
   <li>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="dated-item">
       <span>Teaching Assistant, Introduction to Information Security, KAIST</span>
       <span>Spring 2024</span>
     </div>
