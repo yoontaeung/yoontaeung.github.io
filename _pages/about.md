@@ -9,11 +9,16 @@ redirect_from:
 
 I am a second-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). Prior to doctoral studies, I worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
 
-I am interested in verifiable AI and AI safety. My research questions focus on identifying which properties of AI models are most important to verify and how such verification can be practically realized.
+My research focuses on making AI systems trustworthy through verifiable evidence.In particular, I am interested in:
+
+- **Verifiable AI**: zkML, verifiable LLM inference, quantization, GPU-accelerated proving
+- **Agent security and privacy**: multi-agent systems, verifiable tool use, information-flow control
 
 
 News
 ------
+- **2026-10**: Excited to serve on the Program Committee of CSET 2026.
+- **2026-09**: Our preprint "Bits Under ZK-LLM: Evaluating Zero-Knowledge-Friendly Quantization for Verifiable Private LLM Inference" is now available on [arXiv](https://arxiv.org/abs/2609.36437).
 - **2026-06**: Excited to join SPHERE project at USC-ISI as a research intern. 
 - **2025-08**: I am excited to begin my journey as a PhD student at [University of Illinois](https://siebelschool.illinois.edu/).
 - **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany.
@@ -54,9 +59,49 @@ Publications
   </li>
 </ul>
 
+<!-- Current Projects
+------
+- **AI Agents for GPU Optimization in ZK Proving**: Developing a benchmark to evaluate how effectively LLM agents can generate efficient GPU kernels for ZK proving workloads.
+- **Security for Multi-Agent AI Systems**: Designing security mechanisms for multi-agent systems, including information-flow control and privacy-preserving verification of whitelisted tool usage using cryptographic proofs. -->
+
+Education
+------
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>Ph.D. in Computer Science, University of Illinois Urbana-Champaign</span>
+      <span>2025 – Present</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>M.S. in Computer Science, KAIST</span>
+      <span>Feb 2025</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>B.S. in Computer Science, Yonsei University</span>
+      <span>Feb 2023</span>
+    </div>
+  </li>
+</ul>
+
 Service & Awards
 ------
 <ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>Program Committee, <em>Cyber Security Experimentation and Test (CSET)</em></span>
+      <span>2026</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; justify-content: space-between;">
+      <span>Undergraduate Research Apprenticeship Program Mentor, University of Illinois Urbana-Champaign</span>
+      <span>2026 – 2027</span>
+    </div>
+  </li>
   <li>
     <div style="display: flex; justify-content: space-between;">
       <span>CS Graduate Ambassador, University of Illinois Urbana-Champaign</span>
@@ -65,7 +110,7 @@ Service & Awards
   </li>
   <li>
     <div style="display: flex; justify-content: space-between;">
-      <span>Artifact Evaluation Committee, <em>USENIX Security Symposium, NDSS</em></span>
+      <span>Artifact Evaluation Committee, <em>USENIX Security 2026, NDSS 2027</em></span>
       <span>2026</span>
     </div>
   </li>
