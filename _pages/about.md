@@ -37,6 +37,15 @@ Publications
   </li>
 </ul>
 
+<ul>
+  <li>
+    <strong>Privacy Preserving Distributed Virtual Network Embedding</strong><br>
+    Taeung Yoon, Lincoln Thurlow<br>
+    <em>Cyber Security Experimentation and Test Workshop 2026</em><br>
+    To Appear
+  </li>
+</ul>
+
 ### 2025
 
 <ul>
