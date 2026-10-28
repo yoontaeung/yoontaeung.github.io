@@ -13,6 +13,7 @@ My research focuses on making AI systems trustworthy through verifiable evidence
 
 - **Verifiable AI**: zkML, verifiable LLM inference, quantization, GPU-accelerated proving
 - **Agent security and privacy**: multi-agent systems, verifiable tool use, information-flow control
+- **Benchmark design**
 
 
 News
