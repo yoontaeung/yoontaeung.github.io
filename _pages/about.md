@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). Prior to doctoral studies, I worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
+Hi! I'm Taeung (*Teh-oong*), a second-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). Prior to doctoral studies, I worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
 
 My research focuses on making AI systems trustworthy through verifiable evidence.In particular, I am interested in:
 
