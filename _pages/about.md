@@ -42,7 +42,7 @@ Publications
   <li>
     <strong>Privacy Preserving Distributed Virtual Network Embedding</strong><br>
     Taeung Yoon, Lincoln Thurlow<br>
-    <em>Cyber Security Experimentation and Test Workshop 2026</em><br>
+    <em>Cyber Security Experimentation and Test Workshop 2026 (Acceptance rate: 37%) </em><br>
     To Appear
   </li>
 </ul>
@@ -53,7 +53,7 @@ Publications
   <li>
     <strong>On Frontrunning Risks in Batch-Order Fair Systems for Blockchains</strong><br>
     Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Deepak Maram, Min Suk Kang<br>
-    In <em>Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025.</em><br>
+    In <em>Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025. (Acceptance rate: 13.9%) </em><br>
     <a href="https://dl.acm.org/doi/10.1145/3719027.3744879">[paper]</a>
   </li>
 </ul>
@@ -64,7 +64,7 @@ Publications
   <li>
     <strong>Partitioning Ethereum without Eclipsing It</strong><br>
     Hwanjo Heo, Seungwon Woo, <u>Taeung Yoon</u>, Min Suk Kang, Seungwon Shin<br>
-    In <em>Proceedings of Network and Distributed System Security Symposium (NDSS), February 2023.</em><br>
+    In <em>Proceedings of Network and Distributed System Security Symposium (NDSS), February 2023. (Accpetance rate: 16.4%) </em><br>
     <a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf">[paper]</a>
   </li>
 </ul>
