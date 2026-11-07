@@ -37,7 +37,7 @@ redirect_from:
   <div class="research-interests" aria-labelledby="interests-heading">
     <h2 id="interests-heading">Research interests</h2>
     <ul>
-      <li><strong>Verifiable AI systems</strong><span>: provable LLM inference, zkML, information-flow control, and GPU-accelerated proving.</span></li>
+      <li><strong>Verifiable AI systems</strong><span>: provable LLM inference, zkML, information-flow control, and GPU-accelerated proving</span></li>
       <li><strong>Training-data provenance</strong><span>: provable data membership inference</span></li>
       <li><strong>LLM evaluation and measurement</strong><span>: developing methods to evaluate benchmarks reliable</span></li>
     </ul>
