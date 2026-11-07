@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include seo.html %}
+    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/images/apple-touch-icon-180x180.png' | relative_url }}">
+    <link rel="alternate" type="application/atom+xml" href="{{ '/feed.xml' | relative_url }}" title="{{ site.title | escape }} Feed">
+    <link rel="stylesheet" href="{{ '/assets/css/researcher.css' | relative_url }}">
+  </head>
+  <body class="{% if page.profile_home %}home{% else %}interior{% endif %} {{ page.body_class }}">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <div class="site-wrap">
+      <header class="site-header">
+        {% unless page.profile_home %}
+          <a class="wordmark" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+        {% endunless %}
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}#publications">Publications</a>
+          <a href="{{ '/' | relative_url }}#news">News</a>
+        </nav>
+      </header>
+      <main id="main-content">
+        {% unless page.profile_home %}
+          <header class="page-intro">
+            <h1>{{ page.title }}</h1>
+          </header>
+        {% endunless %}
+        <div class="{% if page.profile_home %}home-content{% else %}prose{% endif %}">
+          {{ content }}
+        </div>
+      </main>
+      <footer class="site-footer">
+        <p>{{ site.author.name }}</p>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }} <span aria-hidden="true">↗</span></a>
+      </footer>
+    </div>
+    {% include analytics.html %}
+  </body>
+</html>

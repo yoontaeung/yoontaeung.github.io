@@ -1,184 +1,135 @@
 ---
+layout: researcher
 permalink: /
 title: "About me"
-author_profile: true
-redirect_from: 
+excerpt: "Taeung Yoon studies AI transparency and accountability through verifiable systems, training-data auditing, and LLM evaluation. Computer Science Ph.D. student at UIUC."
+profile_home: true
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I'm Taeung (*Teh-oong*), a second-year Ph.D. student at University of Illinois Urbana-Champaign advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). Prior to doctoral studies, I worked with [Prof. Min Suk Kang](https://netsp.kaist.ac.kr/) in Network Security and Privacy Lab at KAIST.
+<aside class="profile" id="about" aria-labelledby="name">
+  <div class="profile-heading">
+    <h1 id="name">{{ site.author.name }}</h1>
+    <p class="pronunciation">Pronounced “Teh-oong”</p>
+    <figure class="portrait">
+      <img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="{{ site.author.name }}" width="440" height="550">
+    </figure>
+    <p class="role">Ph.D. student, Computer Science</p>
+    <p class="affiliation">University of Illinois Urbana-Champaign</p>
+  </div>
+  <div class="contact" aria-label="Contact and profiles">
+    <a href="mailto:{{ site.author.email }}">Email</a>
+    <a href="{{ site.author.googlescholar }}">Scholar</a>
+    <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+  </div>
+</aside>
 
-My research focuses on making AI systems trustworthy through verifiable evidence.In particular, I am interested in:
+<div class="research-content">
+<section class="introduction" aria-label="About and research">
+  <div class="bio">
+    <p>I'm a second-year Ph.D. student at the University of Illinois <span class="institution-tail">Urbana-Champaign<img class="institution-logo" src="{{ '/images/institutions/illinois.svg' | relative_url }}" alt="" aria-hidden="true" width="13" height="18"></span>, advised by <a href="https://www.xiaojingliao.com/">Xiaojing Liao</a>.</p>
+    <p>My research centers on <strong>AI transparency and accountability</strong>, with a focus on large language models. I study how to establish evidence about the data models learn from, the computations they perform, and the capabilities they demonstrate. I approach these questions from both systems and model perspectives, combining systems research, cryptography, and empirical measurement.</p>
+    <p>Previously, I received my M.S. in Computer Science from <span class="institution-tail">KAIST<img class="institution-logo" src="{{ '/images/institutions/kaist.png' | relative_url }}" alt="" aria-hidden="true" width="18" height="18"></span>, where I worked on blockchain security with <a href="https://netsp.kaist.ac.kr/">Min Suk Kang</a> in the Network Security and Privacy Lab. I received my B.S. in Computer Science from <span class="institution-tail">Yonsei University<img class="institution-logo" src="{{ '/images/institutions/yonsei.png' | relative_url }}" alt="" aria-hidden="true" width="23" height="18"></span>.</p>
+  </div>
+  <div class="research-interests" aria-labelledby="interests-heading">
+    <h2 id="interests-heading">Research interests</h2>
+    <ul>
+      <li><strong>Verifiable AI systems</strong><span>: provable LLM inference, zkML, and GPU-accelerated proving. I am developing <strong>zk-KernelBench</strong> to evaluate how effectively LLM agents generate GPU kernels for ZK proving workloads.</span></li>
+      <li><strong>Training-data provenance</strong><span>: studying membership-preserving knowledge distillation and membership inference on distilled models for efficient, privacy-preserving audits of LLM training data.</span></li>
+      <li><strong>LLM evaluation and measurement</strong><span>: developing methods to evaluate benchmarks reliably and measure their influence.</span></li>
+    </ul>
+    <p class="related-research">I also explore information-flow control and verifiable tool use in multi-agent systems.</p>
+  </div>
+</section>
+<section class="section" id="publications" aria-labelledby="pub-heading">
+  <h2 class="section-heading" id="pub-heading">Publications</h2>
+  <ol class="publications">
+    <li class="paper">
+      <time class="paper-year" datetime="2026">2026</time>
+      <div>
+        <h3 class="paper-title">Bits Under ZK-LLM: Evaluating Zero-Knowledge-Friendly Quantization for Verifiable Private LLM Inference</h3>
+        <p class="authors"><strong>Taeung Yoon</strong>, Yupeng Zhang, Xiaojing Liao</p>
+        <p class="paper-venue">Preprint · Under review</p>
+        <p class="paper-description">A systematic study of how quantization precision affects LLM utility and the cost of zero-knowledge proofs.</p>
+        <p class="paper-links"><a href="https://arxiv.org/abs/2609.36437">paper</a></p>
+      </div>
+    </li>
+    <li class="paper">
+      <time class="paper-year" datetime="2026">2026</time>
+      <div>
+        <h3 class="paper-title">Privacy-Preserving Distributed Virtual Network Embedding</h3>
+        <p class="authors"><strong>Taeung Yoon</strong>, Lincoln Thurlow</p>
+        <p class="paper-venue">Cyber Security Experimentation and Test Workshop (CSET) 2026 · To appear</p>
+        <p class="paper-note">Acceptance rate: 37%</p>
+        <p class="paper-description">3pViNE uses zero-knowledge proofs to verify valid virtual network embeddings across multiple domains without revealing providers’ private network topologies.</p>
+      </div>
+    </li>
+    <li class="paper">
+      <time class="paper-year" datetime="2025">2025</time>
+      <div>
+        <h3 class="paper-title">On Frontrunning Risks in Batch-Order Fair Systems for Blockchains</h3>
+        <p class="authors">Eunchan Park*, <strong>Taeung Yoon*</strong>, Hocheol Nam, Deepak Maram, Min Suk Kang</p>
+        <p class="paper-venue">ACM Conference on Computer and Communications Security (CCS) · October 2025</p>
+        <p class="paper-note">* Equal contribution · Acceptance rate: 13.9%</p>
+        <p class="paper-description">The Ambush attack exposes frontrunning risks in batch-order fair systems; delayed gossiping helps mitigate these risks while preserving throughput.</p>
+        <p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3719027.3744879">paper</a></p>
+      </div>
+    </li>
+    <li class="paper">
+      <time class="paper-year" datetime="2023">2023</time>
+      <div>
+        <h3 class="paper-title">Partitioning Ethereum without Eclipsing It</h3>
+        <p class="authors">Hwanjo Heo, Seungwon Woo, <strong>Taeung Yoon</strong>, Min Suk Kang, Seungwon Shin</p>
+        <p class="paper-venue">Network and Distributed System Security Symposium (NDSS) · February 2023</p>
+        <p class="paper-note">Acceptance rate: 16.4%</p>
+        <p class="paper-description">Gethlighting partitions Ethereum nodes without controlling every peer connection; the work also develops countermeasures.</p>
+        <p class="paper-links"><a href="https://www.ndss-symposium.org/ndss-paper/partitioning-ethereum-without-eclipsing-it/">paper</a></p>
+      </div>
+    </li>
+  </ol>
+</section>
+<section class="section" id="news" aria-labelledby="news-heading">
+  <h2 class="section-heading" id="news-heading">News</h2>
+  <div>
+    <ul class="news">
+      <li><time datetime="2026-10">Oct 2026</time><span>Our paper “Privacy-Preserving Distributed Virtual Network Embedding” was accepted to CSET 2026!</span></li>
+      <li><time datetime="2026-10">Oct 2026</time><span>Serving on the Program Committee of CSET 2026.</span></li>
+      <li><time datetime="2026-09">Sep 2026</time><span>Our preprint “Bits Under ZK-LLM: Evaluating Zero-Knowledge-Friendly Quantization for Verifiable Private LLM Inference” is available on <a href="https://arxiv.org/abs/2609.36437">arXiv</a>.</span></li>
+    </ul>
+    <details><summary>Earlier updates</summary><ul class="news">
+      <li><time datetime="2026-06">Jun 2026</time><span>Joined the SPHERE project at USC-ISI as a research intern.</span></li>
+      <li><time datetime="2025-08">Aug 2025</time><span>Started my Ph.D. at the <a href="https://siebelschool.illinois.edu/">University of Illinois Urbana-Champaign</a>.</span></li>
+      <li><time datetime="2025-06">Jun 2025</time><span>Started a research internship at the <a href="https://www.mpi-sp.org/">Max Planck Institute for Security and Privacy</a> in Bochum, Germany.</span></li>
+      <li><time datetime="2025-05">May 2025</time><span>“On Frontrunning Risks in Batch-Order Fair Systems for Blockchains” was accepted to <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS 2025</a>.</span></li>
+    </ul></details>
+  </div>
+</section>
+<section class="section" aria-labelledby="service-heading">
+  <h2 class="section-heading" id="service-heading">Service &amp; awards</h2>
+  <div class="records">
+    <div class="record"><div><p>Program Committee</p><p class="organization">Cyber Security Experimentation and Test (CSET)</p></div><span class="date">2026</span></div>
+    <div class="record"><div><p>Undergraduate Research Apprenticeship Program Mentor</p><p class="organization">University of Illinois Urbana-Champaign</p></div><span class="date">2026–2027</span></div>
+    <div class="record"><div><p>CS Graduate Ambassador</p><p class="organization">University of Illinois Urbana-Champaign</p></div><span class="date">Mar 2026</span></div>
+    <div class="record"><div><p>Artifact Evaluation Committee</p><p class="organization">USENIX Security 2026 · NDSS 2027</p></div><span class="date">2026</span></div>
+    <div class="record"><div><p>Travel Grant</p><p class="organization">ACM CCS</p></div><span class="date">Oct 2025</span></div>
+    <div class="record"><div><p>2nd Place · Near Horizon AI Hackathon</p><p class="organization">USD 4K</p></div><span class="date">Sep 2024</span></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="teaching-heading">
+  <h2 class="section-heading" id="teaching-heading">Teaching</h2>
+  <div class="records">
+    <div class="record"><div><p>Advanced Topics in Security, Privacy, and Machine Learning</p><p class="organization">Teaching Assistant · UIUC</p></div><span class="date">Fall 2026</span></div>
+    <div class="record"><div><p>Introduction to Computer Networks</p><p class="organization">Teaching Assistant · KAIST</p></div><span class="date">Fall 2024</span></div>
+    <div class="record"><div><p>Introduction to Information Security</p><p class="organization">Teaching Assistant · KAIST</p></div><span class="date">Spring 2024</span></div>
+  </div>
+</section>
 
-- **Verifiable AI**: zkML, verifiable LLM inference, quantization, GPU-accelerated proving
-- **Agent security and privacy**: multi-agent systems, verifiable tool use, information-flow control
-- **Benchmark design**
-
-
-News
-------
-- **2026-10**: Excited to serve on the Program Committee of CSET 2026.
-- **2026-09**: Our preprint "Bits Under ZK-LLM: Evaluating Zero-Knowledge-Friendly Quantization for Verifiable Private LLM Inference" is now available on [arXiv](https://arxiv.org/abs/2609.36437).
-- **2026-06**: Excited to join SPHERE project at USC-ISI as a research intern. 
-- **2025-08**: I am excited to begin my journey as a PhD student at [University of Illinois](https://siebelschool.illinois.edu/).
-- **2025-06**: I started my research internship at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany.
-- **2025-05**: "On Frontrunning Risks in Batch-Order Fair Systems for Blockchains" was accepted to [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! 🎉
-
-Publications
-------
-### 2026
-
-<ul>
-  <li>
-    <strong>Bits Under ZK-LLM: Evaluating Zero-Knowledge-Friendly Quantization for Verifiable Private LLM Inference</strong><br>
-    Taeung Yoon, Yupeng Zhang, Xiaojing Liao<br>
-    <em>Preprint. Under review.</em><br>
-    <a href="https://arxiv.org/abs/2609.36437">[paper]</a>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <strong>Privacy Preserving Distributed Virtual Network Embedding</strong><br>
-    Taeung Yoon, Lincoln Thurlow<br>
-    <em>Cyber Security Experimentation and Test Workshop 2026 (Acceptance rate: 37%) </em><br>
-    To Appear
-  </li>
-</ul>
-
-### 2025
-
-<ul>
-  <li>
-    <strong>On Frontrunning Risks in Batch-Order Fair Systems for Blockchains</strong><br>
-    Eunchan Park (co-first), <u>Taeung Yoon (co-first)</u>, Hocheol Nam, Deepak Maram, Min Suk Kang<br>
-    In <em>Proceedings of ACM Conference on Computer and Communications Security (CCS), Oct 2025. (Acceptance rate: 13.9%) </em><br>
-    <a href="https://dl.acm.org/doi/10.1145/3719027.3744879">[paper]</a>
-  </li>
-</ul>
-
-### 2023
-
-<ul>
-  <li>
-    <strong>Partitioning Ethereum without Eclipsing It</strong><br>
-    Hwanjo Heo, Seungwon Woo, <u>Taeung Yoon</u>, Min Suk Kang, Seungwon Shin<br>
-    In <em>Proceedings of Network and Distributed System Security Symposium (NDSS), February 2023. (Accpetance rate: 16.4%) </em><br>
-    <a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf">[paper]</a>
-  </li>
-</ul>
+</div>
 
 <!-- Current Projects
 ------
 - **AI Agents for GPU Optimization in ZK Proving**: Developing a benchmark to evaluate how effectively LLM agents can generate efficient GPU kernels for ZK proving workloads.
 - **Security for Multi-Agent AI Systems**: Designing security mechanisms for multi-agent systems, including information-flow control and privacy-preserving verification of whitelisted tool usage using cryptographic proofs. -->
-
-Education
-------
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>
-    <div class="dated-item">
-      <span>Ph.D. in Computer Science, University of Illinois Urbana-Champaign</span>
-      <span>2025 – Present</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>M.S. in Computer Science, KAIST</span>
-      <span>Feb 2025</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>B.S. in Computer Science, Yonsei University</span>
-      <span>Feb 2023</span>
-    </div>
-  </li>
-</ul>
-
-Service & Awards
-------
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>
-    <div class="dated-item">
-      <span>Program Committee, <em>Cyber Security Experimentation and Test (CSET)</em></span>
-      <span>2026</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>Undergraduate Research Apprenticeship Program Mentor, University of Illinois Urbana-Champaign</span>
-      <span>2026 – 2027</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>CS Graduate Ambassador, University of Illinois Urbana-Champaign</span>
-      <span>Mar 2026</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>Artifact Evaluation Committee, <em>USENIX Security 2026, NDSS 2027</em></span>
-      <span>2026</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>Travel Grant, <em>ACM CCS</em></span>
-      <span>Oct 2025</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>2nd Place, Near Horizon AI Hackathon (USD 4K)</span>
-      <span>Sep 2024</span>
-    </div>
-  </li>
-</ul>
-
-
-
-Teaching Experience
-------
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>
-    <div class="dated-item">
-      <span>Teaching Assistant, Advanced Topics in Security, Privacy, and Machine Learning, UIUC</span>
-      <span>Fall 2026</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>Teaching Assistant, Introduction to Computer Networks, KAIST</span>
-      <span>Fall 2024</span>
-    </div>
-  </li>
-  <li>
-    <div class="dated-item">
-      <span>Teaching Assistant, Introduction to Information Security, KAIST</span>
-      <span>Spring 2024</span>
-    </div>
-  </li>
-</ul>
-
-<!-- Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->
-
-<!-- **Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

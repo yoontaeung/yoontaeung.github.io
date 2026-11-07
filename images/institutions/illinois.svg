@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 242 350">
+  <title>Block I in Illini orange</title>
+  <style>
+    .block-i { fill: #FF5F05; }
+  </style>
+  <path class="block-i" d="M242 94V0H0v94h54v162H0v94h242v-94h-54V94z"/>
+</svg>
