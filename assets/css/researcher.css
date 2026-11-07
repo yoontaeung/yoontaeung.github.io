@@ -57,7 +57,6 @@ h1 { font-size: 30px; line-height: 1.2; letter-spacing: -.035em; font-weight: 70
 .research-interests li { font-size: 14px; line-height: 1.65; margin-bottom: 12px; padding-left: 2px; }
 .research-interests li strong { font-weight: 600; }
 .research-interests li span { color: #444; }
-.related-research { color: var(--muted); font-size: 14px; line-height: 1.65; margin: 16px 0 0; }
 .research-content { min-width: 0; padding-top: 85px; padding-bottom: 52px; }
 .section { margin: 0 0 48px; }
 .section:last-child { margin-bottom: 0; }
@@ -100,25 +99,6 @@ details[open] summary { margin-bottom: 13px; }
 .prose ul { padding-left: 20px; }
 .prose li { padding-left: 4px; margin-bottom: 19px; }
 
-/* A simple photo wall; real photographs will supply the color and texture. */
-.gallery-page .page-intro { padding-bottom: 16px; }
-.gallery-page .prose { max-width: none; }
-.gallery-intro { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px 24px; margin-bottom: 34px; }
-.gallery-intro p { font-size: 15px; color: var(--muted); margin: 0; }
-.gallery-status { font-size: 11px; color: var(--muted); }
-.gallery-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 34px 26px; align-items: start; }
-.gallery-item { min-width: 0; margin: 0; }
-.gallery-item--wide { grid-column: span 2; }
-.gallery-item img { width: 100%; height: auto; }
-.gallery-item figcaption { display: flex; justify-content: space-between; gap: 14px; font-size: 12px; line-height: 1.6; margin-top: 10px; }
-.gallery-item figcaption span + span { color: var(--muted); }
-.gallery-placeholder { display: grid; place-items: center; background: #f3f3f1; color: #777; }
-.gallery-placeholder span { font-size: 12px; font-variant-numeric: tabular-nums; }
-.gallery-placeholder--landscape { aspect-ratio: 3 / 2; }
-.gallery-placeholder--portrait { aspect-ratio: 4 / 5; background: #eeefed; }
-.gallery-placeholder--square { aspect-ratio: 1; }
-.gallery-item:nth-child(4) .gallery-placeholder { background: #f0f0ee; }
-
 @media (max-width: 1000px) {
   .site-wrap { width: calc(100% - 64px); }
   .home-content { grid-template-columns: 250px minmax(0, 1fr); column-gap: 50px; }
@@ -141,9 +121,6 @@ details[open] summary { margin-bottom: 13px; }
   .record .date { font-size: 11px; }
   .page-intro { padding-top: 38px; }
   .prose { padding-bottom: 38px; }
-  .gallery-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 26px 18px; }
-  .gallery-item--wide { grid-column: span 2; }
-  .gallery-intro { margin-bottom: 25px; }
 }
 @media (max-width: 390px) {
   .profile-heading h1 { font-size: 26px; }
@@ -153,8 +130,6 @@ details[open] summary { margin-bottom: 13px; }
   .paper-year { font-size: 12px; }
   .news li { grid-template-columns: 65px minmax(0, 1fr); gap: 13px; }
   .interior .site-header { flex-wrap: wrap; gap: 12px; }
-  .gallery-grid { grid-template-columns: minmax(0, 1fr); }
-  .gallery-item--wide { grid-column: auto; }
 }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 @media print {

@@ -113,8 +113,8 @@ redirect_from:
     <div class="record"><div><p>Undergraduate Research Apprenticeship Program Mentor</p><p class="organization">University of Illinois Urbana-Champaign</p></div><span class="date">2026–2027</span></div>
     <div class="record"><div><p>CS Graduate Ambassador</p><p class="organization">University of Illinois Urbana-Champaign</p></div><span class="date">Mar 2026</span></div>
     <div class="record"><div><p>Artifact Evaluation Committee</p><p class="organization">USENIX Security 2026 · NDSS 2027</p></div><span class="date">2026</span></div>
-    <div class="record"><div><p>Travel Grant</p><p class="organization">ACM CCS</p></div><span class="date">Oct 2025</span></div>
-    <div class="record"><div><p>2nd Place · Near Horizon AI Hackathon</p><p class="organization">USD 4K</p></div><span class="date">Sep 2024</span></div>
+    <div class="record"><div><p>Travel Grant ($1,000)</p><p class="organization">ACM CCS</p></div><span class="date">Oct 2025</span></div>
+    <div class="record"><div><p>2nd Place, Near Horizon AI Hackathon ($4,000)</p><p class="organization">Near protocol</p></div><span class="date">Sep 2024</span></div>
   </div>
 </section>
 <section class="section" aria-labelledby="teaching-heading">
