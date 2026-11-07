@@ -31,17 +31,16 @@ redirect_from:
 <section class="introduction" aria-label="About and research">
   <div class="bio">
     <p>I'm a second-year Ph.D. student at the University of Illinois <span class="institution-tail">Urbana-Champaign<img class="institution-logo" src="{{ '/images/institutions/illinois.svg' | relative_url }}" alt="" aria-hidden="true" width="13" height="18"></span>, advised by <a href="https://www.xiaojingliao.com/">Xiaojing Liao</a>.</p>
-    <p>My research centers on <strong>AI transparency and accountability</strong>, with a focus on large language models. I study how to establish evidence about the data models learn from, the computations they perform, and the capabilities they demonstrate. I approach these questions from both systems and model perspectives, combining systems research, cryptography, and empirical measurement.</p>
+    <p>My research focuses on making AI models more <i>transparent</i> and <i>accountable</i>. I'm interested in how we can verify what data models were trained on, what computations they actually perform, and what they are capable of doing. To address these questions, I bring together systems security, cryptography, and empirical measurement.</p>
     <p>Previously, I received my M.S. in Computer Science from <span class="institution-tail">KAIST<img class="institution-logo" src="{{ '/images/institutions/kaist.png' | relative_url }}" alt="" aria-hidden="true" width="18" height="18"></span>, where I worked on blockchain security with <a href="https://netsp.kaist.ac.kr/">Min Suk Kang</a> in the Network Security and Privacy Lab. I received my B.S. in Computer Science from <span class="institution-tail">Yonsei University<img class="institution-logo" src="{{ '/images/institutions/yonsei.png' | relative_url }}" alt="" aria-hidden="true" width="23" height="18"></span>.</p>
   </div>
   <div class="research-interests" aria-labelledby="interests-heading">
     <h2 id="interests-heading">Research interests</h2>
     <ul>
-      <li><strong>Verifiable AI systems</strong><span>: provable LLM inference, zkML, and GPU-accelerated proving. I am developing <strong>zk-KernelBench</strong> to evaluate how effectively LLM agents generate GPU kernels for ZK proving workloads.</span></li>
-      <li><strong>Training-data provenance</strong><span>: studying membership-preserving knowledge distillation and membership inference on distilled models for efficient, privacy-preserving audits of LLM training data.</span></li>
-      <li><strong>LLM evaluation and measurement</strong><span>: developing methods to evaluate benchmarks reliably and measure their influence.</span></li>
+      <li><strong>Verifiable AI systems</strong><span>: provable LLM inference, zkML, information-flow control, and GPU-accelerated proving.</span></li>
+      <li><strong>Training-data provenance</strong><span>: provable data membership inference</span></li>
+      <li><strong>LLM evaluation and measurement</strong><span>: developing methods to evaluate benchmarks reliable</span></li>
     </ul>
-    <p class="related-research">I also explore information-flow control and verifiable tool use in multi-agent systems.</p>
   </div>
 </section>
 <section class="section" id="publications" aria-labelledby="pub-heading">
